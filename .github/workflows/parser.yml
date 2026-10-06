@@ -9,6 +9,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    # Открываем права на запись для github-actions[bot] внутри этого воркфлоу
+    permissions:
+      contents: write
 
     steps:
     - name: Checkout GitHub repo
@@ -35,7 +38,7 @@ jobs:
         
         # Настраиваем локального Git-бота
         git config user.name "github-actions[bot]"
-        git config user.email "github-actions[bot]@://github.com"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
         
         # Добавляем текстовые результаты работы парсера и README
         git add sub/ README.md
