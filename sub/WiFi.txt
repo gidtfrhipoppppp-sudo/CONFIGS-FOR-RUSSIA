@@ -1,4 +1,4 @@
-vless://update@update.lso:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=update.lso#подписка #LSO© обновлена 2026-10-24 17:49:22
+vless://update@update.lso:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=update.lso#подписка #LSO© обновлена 2026-10-24 21:00:27
 vless://about@1.about.lso:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=about.lso#подписка #LSO© ЭТО: подписка с конфигами для WIFI
 vless://about2@2.about.lso:443?security=none&encryption=none&headerType=none&type=tcp#и обхода блокировок РКН
 vless://all@all.lso:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=all.lso#Подписка #LSO© Всего конфигов: 4
@@ -7,7 +7,7 @@ hysteria2://hy2@hy2.about.lso:443?security=tls&obfs=salamander&obfs-password=hy2
 ss://YWVzLTI1Ni1nY206c3M@ss.about.lso:443#Подписка #LSO© SS: 2
 vless://vmess@vmess.about.lso:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=vmess.about.lso#Подписка #LSO© Vmess: 0
 vless://tg@tg.lso:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=tg.lso#Подписка #LSO© ТГ КАНАЛ: @LSOVPN
+ss://12345678-1234-1234-1234-123456789012@mifa.world:443?encryption=none&security=none&sni=mifa.world&fp=random&pbk=aQly1zWk_i62TgzCZB1JnaInYIiNZuss4NA0JDWxtm0&type=tcp&headerType=none#unknown | unknown | SHADOWSOCKS [#LSO - #LinSpisokObhod]
 ss://12345678-9012-3456-7890-123456789012@52.67.52.67:1488?encryption=none&type=tcp&path=%2Flive%2Fws2#Brazil | 52.67.52.67 | SHADOWSOCKS [#LSO - #LinSpisokObhod]
-ss://ed8704b8-9e9e-48e6-b55b-ae9079ab3a59@mifa.world:443?encryption=none&security=reality&sni=mifa.world&fp=random&pbk=aQly1zWk_i62TgzCZB1JnaInYIiNZuss4NA0JDWxtm0&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#unknown | unknown | SHADOWSOCKS [#LSO - #LinSpisokObhod]
+vless://12345678-1234-1234-1234-123456789012@mifa.world:443?encryption=none&security=none&sni=mifa.world&fp=random&pbk=aQly1zWk_i62TgzCZB1JnaInYIiNZuss4NA0JDWxtm0&type=tcp&headerType=none#unknown | mifa.world | TCP [#LSO - #LinSpisokObhod]
 vless://12345678-9012-3456-7890-123456789012@52.67.52.67:1488?encryption=none&type=tcp&path=%2Flive%2Fws2#Brazil | 52.67.52.67 | TCP [#LSO - #LinSpisokObhod]
-vless://ed8704b8-9e9e-48e6-b55b-ae9079ab3a59@mifa.world:443?encryption=none&security=reality&sni=mifa.world&fp=random&pbk=aQly1zWk_i62TgzCZB1JnaInYIiNZuss4NA0JDWxtm0&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#unknown | mifa.world | GRPC [#LSO - #LinSpisokObhod]
